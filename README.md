@@ -1,14 +1,11 @@
 # 📈 Dashboard Ejecutivo — Análisis Financiero Avanzado
 
-> ETL avanzado en Power Query · Limpieza de datos multicapa · Modelo estrella · DAX financiero · Inteligencia de tiempo
+> ETL (Extract, Transform, Load) avanzado en Power Query · Data Pipeline (Flujo de preparacion de datos) · Implementacion DAX · Modelado de datos
 
----
-
-## 🛠️ Stack Tecnológico
+## 🛠️ Herramientas Utilizadas
 
 | Herramienta | Uso |
-|---|---|
-| **Power BI Desktop** | Visualización y dashboard ejecutivo interactivo |
-| **Power Query (M)** | ETL, limpieza y transformación de datos |
-| **DAX** | Medidas financieras, KPIs, inteligencia de tiempo y texto dinámico |
-| **Excel** | Fuente de datos origen con múltiples inconsistencias intencionales |
+| **Power BI Desktop** | Visualización y dashboard ejecutivo |
+| **Power Query** | ETL, limpieza y transformación de datos |
+| **DAX** | Medidas financieras, KPIs |
+| **Excel** | Base de datos |
